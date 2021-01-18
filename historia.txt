@@ -1,2 +1,10 @@
+<<<<<<< HEAD
 Tengo 40 años y soy wilson genoy
 mañana nos enfocaremos en su vida laboral
+=======
+Esta es la historia de Freddy Vega
+
+Freddy Vega tiene 32 años y nació en Colombia
+
+Mañana nos enfocaremos en su vida laboral
+>>>>>>> 78b3540d1fcbb70ab92332b763a163c04f0e3ab3
